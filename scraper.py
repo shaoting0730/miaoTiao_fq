@@ -7,7 +7,7 @@ from urllib.parse import quote
 
 # ================= ⚙️ 核心配置区 ⚙️ =================
 
-CUSTOM_REMARK_B64 = "56eR5oqA5YWx5Lqr6IqC54K55YiG5Lqr"
+CUSTOM_REMARK_B64 = "56eR5oqA5YWx5LqrLeW8gOa6kOiKgueCuQ=="
 
 # 2. 节点订阅源库（随时可在末尾追加新链接）
 SOURCE_URLS = [
